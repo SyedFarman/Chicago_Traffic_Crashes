@@ -104,14 +104,22 @@ This model aims to predict the high-risk areas of Chicago; i.e. areas with high 
 ## Machine learning Deep Learning Model
 
 ### Take 1
-![image](https://user-images.githubusercontent.com/115905342/232673675-aee89d30-b135-4bd2-b20f-2e13e5c44b62.png)
+
 - Total parameters: 294,050
 - Model Accuracy: 87.8%
 
 
 ### Take 2
 
-![image](https://user-images.githubusercontent.com/115905342/232673710-99f6697f-7fd2-46ce-afd0-a16096bafbed.png)
+![image](https://user-images.githubusercontent.com/82785105/232835921-81024c3f-4ee8-46b2-80a3-205537f1c98b.png)
+
+      191/191 - 1s - loss: 0.8260 – accuracy: 0.9073 - 675ms/epoch - 4ms/step Loss: 0.8259850740432739, Accuracy: 0.907270610332489 
+      
+      Hidden Layer 1 - 10
+      Hidden Layer 2 - 8
+      Hidden Layer 3 - 6
+
+
 - Total parameters: 420,039
 - Model Accuracy: 90.7%
 
