@@ -105,6 +105,13 @@ This model aims to predict the high-risk areas of Chicago; i.e. areas with high 
 
 ### Take 1
 
+![image](https://user-images.githubusercontent.com/82785105/232837230-807a559e-ec4c-4772-9f60-84baf8cea1c0.png)
+      
+      191/191 - 1s - loss: 4.3641 – accuracy: 0.8776 - 733ms/epoch - 4ms/step Loss: 4.364131450653076, Accuracy: 0.8775644302368164
+      
+      Hidden Layer 1 - 7
+      HiddenLayer 2 - 14
+
 - Total parameters: 294,050
 - Model Accuracy: 87.8%
 
