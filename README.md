@@ -4,7 +4,8 @@
 
 ## Purpose 
 
-The Chicago Traffic Crashes project involves analyzing electronic crash reports from the Chicago Police Department to identify patterns and factors contributing to traffic crashes in Chicago. The dataset covers some police districts in 2015, but citywide data is available from September 2017. The goal is to provide insights to improve road safety in the city, but the dataset only includes reportable crashes that involve property damage of $1,500 or more, bodily injury, and at least one moving vehicle (except bike dooring).
+The project involves analyzing crash data from the Chicago Police Department's electronic reporting system to identify patterns and factors contributing to road accidents in the city. The dataset covers reportable crashes on city streets and includes information such as street conditions, weather, and speed limits. The goal is to provide insights to improve road safety in Chicago.
+
 
 
 
@@ -17,7 +18,6 @@ This project involves analyzing crash reports from the Chicago PD to identify pa
 ## Research Questions:
 The insurance companies are losing millions of dollars well over $3B annually due to lack robust predictive tool, now we helping insurance companies by using over model to predict the likelihood of damages in crashes.
 
-![image](https://user-images.githubusercontent.com/24644072/232939213-b13fbffd-5e6c-4b9d-9036-204a5c01c7a5.png)
 
 1. Can we identify hotspots or high-risk areas where crashes are most likely to occur, based on historical crash data and other factors such as traffic volume and road design?
 
@@ -139,6 +139,7 @@ This model aims to predict the high-risk areas of Chicago; i.e. areas with high 
 # Conlusion 
 
 Deep Learning Model is the best model to use to predict the high-risk areas of Chicago’s streets to apply to an insurance company’s model to help gauge the right pricing for a user of their services. 
+Once the classification models are deployed to the insurance industry, the problem of assessing risk and cost of traffic crashes in cities such as Chicago can be ideally reduced to negligible quantities.
 
 
 
