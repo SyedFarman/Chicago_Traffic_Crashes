@@ -48,7 +48,7 @@ For the purposes of data data extraction, transofrmation, loading, visual analys
 ## Chicago Traffic Crashes Infographic's 
 
 A Dashboard is created to analyze different variables and general trends causing an increase in traffic accidents occuring in Chicago. 
-Check out [live Infographic's](https://public.tableau.com/app/profile/farman5186/viz/ChicagoTraficCrashesAnalysis/Dashboard1?publish=yes) 
+Check out [live Infographic's here](<a href="https://public.tableau.com/app/profile/farman5186/viz/ChicagoTraficCrashesAnalysis/Dashboard1?publish=yes) target="_blank"> </a> 
 
 ![Traffic Crashes Info Graphics](https://user-images.githubusercontent.com/24644072/232640384-243de0b1-844d-436e-ab9d-4322f05a8be8.png)
 
