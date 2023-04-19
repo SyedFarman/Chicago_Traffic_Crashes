@@ -15,6 +15,9 @@ The Chicago Traffic Crashes project involves analyzing electronic crash reports 
 This project involves analyzing crash reports from the Chicago PD to identify patterns and factors contributing to traffic incidents in the area. The model we created used 2020 data which, after cleaning, contained 20,000+ rows of data.  After cleaning the data the rows, columns dropped from (~70,000, 49) to (~20,000, 24)
 
 ## Research Questions:
+The insurance companies are losing millions of dollars well over $3B annually due to lack robust predictive tool, now we helping insurance companies by using over model to predict the likelihood of damages in crashes.
+
+![image](https://user-images.githubusercontent.com/24644072/232939213-b13fbffd-5e6c-4b9d-9036-204a5c01c7a5.png)
 
 1. Can we identify hotspots or high-risk areas where crashes are most likely to occur, based on historical crash data and other factors such as traffic volume and road design?
 
@@ -48,7 +51,7 @@ For the purposes of data data extraction, transofrmation, loading, visual analys
 ## Chicago Traffic Crashes Infographic's 
 
 A Dashboard is created to analyze different variables and general trends causing an increase in traffic accidents occuring in Chicago. 
-Check out [live Infographic's here](<a href="https://public.tableau.com/app/profile/farman5186/viz/ChicagoTraficCrashesAnalysis/Dashboard1?publish=yes" target="_blank"> </a>) 
+Check out <a href="https://public.tableau.com/app/profile/farman5186/viz/ChicagoTraficCrashesAnalysis/Dashboard1?publish=yes" target="_blank"> live Infographic's here </a> 
 
 ![Traffic Crashes Info Graphics](https://user-images.githubusercontent.com/24644072/232640384-243de0b1-844d-436e-ab9d-4322f05a8be8.png)
 
